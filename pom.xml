@@ -4,8 +4,7 @@
 
   <groupId>Amazon</groupId>
   <artifactId>cartapp</artifactId>
-  <version>0.1.0</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>cartapp</name>
   <url>http://maven.apache.org</url>
